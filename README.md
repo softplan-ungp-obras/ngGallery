@@ -3,6 +3,8 @@ ngGallery
 
 Angular is only dependency (no jQuery).
 
+Forked from https://github.com/SchwarzwaldFalke/ngGallery
+
 #### Example 
 
 Check out [the live demo](http://demo.jankuri.com/ngGallery/)
